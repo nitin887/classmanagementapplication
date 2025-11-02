@@ -118,6 +118,4 @@ We welcome contributions to the Class Management System! If you'd like to contri
 6.  Push your branch to your forked repository.
 7.  Open a pull request to the `main` branch of the original repository, describing your changes in detail.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
